@@ -1,0 +1,7 @@
+# Generated data and node module
+__site
+node_modules
+src/__data/bingsu.json
+
+# Unwanted files
+.DS_Store

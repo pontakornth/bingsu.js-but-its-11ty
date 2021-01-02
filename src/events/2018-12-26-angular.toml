@@ -1,0 +1,11 @@
+name = "Angular Meetup DEC 2018"
+
+  [[party]]
+  name = "somtum.ts"
+  url = "https://www.facebook.com/photo.php?fbid=10156798141518326&set=a.10150107943968326&type=3&permPage=1"
+  place = "ZaabOne Ratchada"
+
+  [[party]]
+  name = "ng new bingsu"
+  url = "https://www.facebook.com/photo.php?fbid=10156798365313326&set=a.10150107943968326&type=3&permPage=1"
+  place = "Hollys Coffee The Street"
