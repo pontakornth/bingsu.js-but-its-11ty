@@ -12,7 +12,7 @@
     "dev": "npm-run-all build:tailwind dev:eleventy",
     "build:eleventy": "eleventy",
     "build:tailwind": "postcss ./src/assets/base.css -o ./__site/assets/base.css",
-    "build": "npm-run-all build:* "
+    "build": "cross-env NODE_ENV=production npm-run-all build:* "
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
