@@ -5,6 +5,7 @@
     "toml": "^3.0.0"
   },
   "scripts": {
-    "dev": "eleventy --serve"
+    "dev": "eleventy --serve",
+    "build": "eleventy"
   }
 }
